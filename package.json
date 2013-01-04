@@ -6,13 +6,19 @@
     "name": "Joe Dahlquist",
     "email": "joedahlquist@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdahlq/jdahlq.com.git"
+  },
   "dependencies": {
     "browserify": "1.x",
     "commander": "1.x",
     "consolidate": "0.x",
     "express": "3.x",
+    "resume-http-beam": "https://github.com/jdahlq/resume-http-beam/tarball/master",
     "hogan.js": "2.x",
-    "less-middleware": "0.x"
+    "less-middleware": "0.x",
+    "quan": "https://github.com/jdahlq/quan/tarball/master"
   },
   "devDependencies": {
     "vows": "*"

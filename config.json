@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "resume-http-beam",
+      "mountTo": "/resume"
+    }
+  ],
+  "httpPort": 80,
+  "runTests": false
+}
